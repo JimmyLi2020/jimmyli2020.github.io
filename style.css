@@ -4,12 +4,13 @@
 }
 
 .serif {
-  font-family: "Times New Roman", Times, serif;
+	font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
 	font-size: 60px;
 	font-weight: bold;
+	text-align: center;
 }
 
 p {
@@ -21,3 +22,12 @@ p {
 	font-size: 30px;
 }
 
+.sansserif {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 45px !important;
+}
+
+.sansserifsmall {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 35px !important;
+}
