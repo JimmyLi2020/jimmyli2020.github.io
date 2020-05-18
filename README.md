@@ -5,6 +5,7 @@ Final Project for Advanced Topics in Computer Science.
 * Resume containes all required fields (name, education, coursework, experience, skills, activities).
 * Biography page
 * Readme file is in .md format and contains all information.
+* All html files pass validation.
 * Extra: I made my own navbar since for some reason the bootstrap navbar didn't work.
 2. Identify any partners or people who I discussed this project with.
 * None. Completed independently with minor help from my class teacher (Mr. Sayles) during class.
